@@ -1,4 +1,4 @@
-# qwen-generic-project
+# qwen-code-generic-starter-project
 
 Generic starter template for agent-driven (Qwen Code) projects.
 
@@ -11,6 +11,6 @@ Generic starter template for agent-driven (Qwen Code) projects.
 
 ## Starting a new project
 ```sh
-gh repo create my-new-project --private --template kireol/qwen-generic-project --clone
+gh repo create my-new-project --private --template kireol/qwen-code-generic-starter-project --clone
 ```
 Then fill in `docs/agent/PROJECT_STATE.md` and replace this README.
