@@ -92,6 +92,3 @@ and long builds. Run short commands in the foreground.
    foreground run timed out or warned.
 4. For deployments, migrations, pushes, and other side-effecting
    operations, verify the original run's status before retrying.
-
-For local AI model benchmarks or coding agent evaluations,
-also follow `BENCHMARKS.md`.
